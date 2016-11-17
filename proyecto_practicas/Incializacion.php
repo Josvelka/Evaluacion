@@ -1,0 +1,3 @@
+   <? PHP
+    $(".button-collapse").sideNav();
+   ?>

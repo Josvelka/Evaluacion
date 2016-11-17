@@ -1,0 +1,71 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+div .modal{
+	width: 580px;
+	text-align: center;
+}
+.nav-mobile{
+    font:bold;
+	font-size: 35px;
+}
+.container{
+	padding: 0px;
+	color: white;
+}
+.parallax-container {
+    position: relative;
+    overflow: hidden;
+    height: 500px;
+}
+body #ro2{
+	background: #e0e0e0;
+	width: 100%;
+}
+body #ip{
+	margin-left: 85px;
+}
+#p{
+	padding-top: 135px;
+	text-align: center;
+}
+#vid{
+	margin-left: 70px;
+	border: 2px inset #009688;
+}
+#c_entrenadores{
+	margin-right: 150px;
+	margin-left:150px; 
+	height: 500px;
+}
+#p1{
+	padding-top: 80px;
+	text-align: left;
+	margin-bottom: 55px;
+}
+#pie{
+	padding-top: 0px;
+	margin-top: 0px;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+blockquote{
+	border-left: 5px solid #009688;
+}
+main {
+    flex: 1 0 auto;
+  }
+.j{
+	padding:0px;
+}
+
+#modal1{
+    		width: 400px;
+    	}
+#btlogin{
+	width: 350px;
+}
